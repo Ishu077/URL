@@ -1,0 +1,38 @@
+# Logslogs
+*.lognpm-debug.log*
+yarn-debug.log*yarn-error.log*
+pnpm-debug.log*lerna-debug.log*
+# Dependencies
+node_modules
+package-lock.json
+# Environment variables.env
+.env.local.env.*.local
+# Build output
+dist
+build
+covera# Editor directories and files
+.vscode/*!.vscode/extensions.json
+.idea.DS_Store
+*.suo*.ntvs*
+*.njsproj
+.env
+*.sw# Temporary files
+*.tmp
+*.temp
+.cache
+
+?
+
+
+
+
+ge
+
+
+
+
+
+
+
+
+
